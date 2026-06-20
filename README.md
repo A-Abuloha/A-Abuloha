@@ -10,7 +10,7 @@ I'm highly passionate about **Machine Learning, Computer Vision, and Predictive 
 ## 🛠️ Tech Stack & Skills
 
 * **Languages:** Python (Structured Programming, OOP), C (Procedural Programming, Memory Management)
-* **Data Science & Analytics:** Pandas, Matplotlib, Data Wrangling, Native File I/O (Reading/Writing/Appending)
+* **Data Science & Analytics:** NumPy, Pandas, Matplotlib, Data Wrangling, Native File I/O (Reading/Writing/Appending)
 * **Tools & Workflow:** Git, GitHub Desktop, VS Code
 
 ---
