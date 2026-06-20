@@ -23,5 +23,7 @@ I'm highly passionate about **Machine Learning, Computer Vision, and Predictive 
 
 ---
 
-📫 **How to reach me:** https://www.linkedin.com/in/abdulhakeem-abuloha-626201397/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEvQhLtXCQUyhENBSlACJxg%3D%3D
-or through email [hakeemabuloha92@outlook.com]
+## 📫 How to Reach Me
+
+* **LinkedIn:** [Abdulhakeem Abuloha](https://www.linkedin.com/in/abdulhakeem-abuloha-626201397/)
+* **Email:** [hakeemabuloha92@outlook.com](mailto:hakeemabuloha92@outlook.com)
